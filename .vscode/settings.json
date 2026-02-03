@@ -22,5 +22,7 @@
   "workbench.statusBar.visible": true,
   "files.exclude": {
     "**/.git": false
-  }
+  },
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python-envs.pythonProjects": []
 }
